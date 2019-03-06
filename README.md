@@ -7,4 +7,5 @@ This repo contains my selected colab notebooks, mainly on computer vision.
 - SSD-VOC
 - SSD-SVHN
 - YOLO-CAPTCHA
+- RetinaNet-VOC
 - DCGAN
